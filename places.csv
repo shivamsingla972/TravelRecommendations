@@ -1,0 +1,101 @@
+place_id,place_name,category,tags,location
+1,"Ryan, Potts and Klein",Museum,"luxury,indoor,family-friendly",Amandabury
+2,Hansen and Sons,Restaurant,"romantic,family-friendly,indoor",New Michelleberg
+3,Hamilton-Hogan,Library,"vegan,luxury,tourist-friendly",Kimberlybury
+4,Williams and Sons,Bar,"luxury,outdoor,romantic",Farleyton
+5,Hill LLC,Cinema,"romantic,cheap,pet-friendly",Melendeztown
+6,Banks LLC,Library,"trendy,vegan,romantic",Abigailside
+7,Roberts Ltd,Restaurant,"indoor,trendy,romantic",Parkshaven
+8,Oliver-Mora,Library,"luxury,pet-friendly,outdoor",Katherineland
+9,Gates PLC,Gym,"cheap,vegan,indoor",Hawkinsport
+10,Mcneil Group,Park,"pet-friendly,indoor,cheap",North Victoria
+11,"Tanner, Wolfe and Smith",Museum,"trendy,vegan,outdoor",Smithhaven
+12,"Coffey, Bradley and Oconnell",Cafe,"cheap,family-friendly,outdoor",South Vincent
+13,Turner-Hall,Gym,"family-friendly,cheap,romantic",Port Elizabeth
+14,"Nguyen, Miller and Waller",Shopping Mall,"tourist-friendly,romantic,trendy",Jacksonchester
+15,Sparks-Anderson,Gym,"tourist-friendly,cheap,family-friendly",Port David
+16,Dunn-Williams,Park,"family-friendly,outdoor,trendy",Beckstad
+17,"Rivers, Hernandez and Rice",Library,"trendy,vegan,luxury",North Carlaland
+18,"Brooks, Johnson and Hudson",Library,"luxury,vegan,family-friendly",Debbiemouth
+19,Sanchez-Stanley,Shopping Mall,"outdoor,indoor,pet-friendly",Curtishaven
+20,"Huang, Key and Cooper",Park,"outdoor,romantic,luxury",Nunezberg
+21,"Matthews, Mcguire and Jefferson",Museum,"family-friendly,romantic,luxury",Jeffreybury
+22,Clark LLC,Shopping Mall,"romantic,pet-friendly,trendy",East Marissa
+23,"Martinez, Kane and Cook",Beach,"outdoor,vegan,tourist-friendly",Frederickberg
+24,Jones PLC,Beach,"luxury,romantic,indoor",Port Jesus
+25,Jefferson-Scott,Gym,"trendy,romantic,cheap",Piercehaven
+26,"Moreno, Alvarez and Mcknight",Library,"trendy,family-friendly,luxury",West Johnview
+27,"Hobbs, May and Collins",Beach,"pet-friendly,family-friendly,trendy",West Melissa
+28,Larsen-Jennings,Museum,"tourist-friendly,cheap,pet-friendly",South Blake
+29,Mitchell-Johnson,Cinema,"indoor,vegan,pet-friendly",Hunterstad
+30,Carlson-Ramirez,Bar,"pet-friendly,romantic,outdoor",North Debbieside
+31,Miller Ltd,Gym,"pet-friendly,trendy,cheap",Rhondaside
+32,Rogers PLC,Library,"tourist-friendly,luxury,romantic",South Kathymouth
+33,"Stevens, Vasquez and Cook",Gym,"pet-friendly,tourist-friendly,outdoor",Port Karen
+34,Richardson-Hale,Shopping Mall,"pet-friendly,outdoor,tourist-friendly",Meganmouth
+35,Chavez-Garcia,Cafe,"indoor,cheap,outdoor",Emilyland
+36,Carter-Mckay,Bar,"outdoor,indoor,vegan",Lake Elizabethfort
+37,Jones-Dorsey,Cafe,"trendy,outdoor,family-friendly",West Sarah
+38,Vasquez LLC,Cinema,"trendy,indoor,tourist-friendly",Mariamouth
+39,"Johnson, King and Hunt",Cinema,"cheap,luxury,vegan",Fosterfurt
+40,"Rodriguez, Guzman and Graham",Museum,"family-friendly,luxury,pet-friendly",East Heather
+41,Griffin-Mathis,Bar,"vegan,indoor,family-friendly",Daniellefort
+42,Gilbert-Hernandez,Bar,"vegan,romantic,luxury",Robinsonbury
+43,"Hall, Rivera and Perez",Museum,"outdoor,luxury,pet-friendly",Port Stephanie
+44,Fletcher Ltd,Bar,"trendy,luxury,romantic",Mariatown
+45,Smith Group,Park,"tourist-friendly,cheap,vegan",Sandramouth
+46,Meza-Robles,Museum,"indoor,cheap,trendy",West Justin
+47,Williams Group,Library,"luxury,vegan,family-friendly",Christopherport
+48,"Prince, Smith and Meyers",Cinema,"vegan,luxury,romantic",North Brianland
+49,Frazier-Wilson,Park,"family-friendly,luxury,outdoor",Taylorborough
+50,Clark-Mills,Cafe,"luxury,cheap,tourist-friendly",West Maurice
+51,Branch Group,Bar,"luxury,vegan,trendy",West Philipshire
+52,Bass Group,Bar,"outdoor,pet-friendly,cheap",Jerrychester
+53,Coleman Group,Library,"pet-friendly,vegan,indoor",New Vincent
+54,Rivera-Little,Bar,"luxury,family-friendly,vegan",North Laurentown
+55,Ramirez-Rodriguez,Gym,"vegan,pet-friendly,outdoor",Lake Sarahfort
+56,Roberts-Lee,Shopping Mall,"trendy,family-friendly,luxury",Lake Michelle
+57,Hancock Group,Bar,"vegan,romantic,trendy",East Seantown
+58,"Smith, Ewing and Jones",Park,"romantic,outdoor,luxury",North Selena
+59,English-Jones,Restaurant,"indoor,romantic,pet-friendly",South Kimberly
+60,Peck Ltd,Gym,"romantic,trendy,luxury",Andrewsland
+61,"Riley, Butler and Miller",Cafe,"pet-friendly,tourist-friendly,family-friendly",Coryhaven
+62,Richardson-Johnson,Gym,"outdoor,family-friendly,cheap",Hamiltonville
+63,"Cook, Waller and Simpson",Restaurant,"cheap,pet-friendly,tourist-friendly",Port Dianaview
+64,Simmons Ltd,Museum,"tourist-friendly,romantic,pet-friendly",West Jacobside
+65,Sanders Ltd,Bar,"family-friendly,luxury,indoor",Andersonport
+66,"Hood, Hunter and Boyd",Bar,"luxury,cheap,romantic",Angelaton
+67,Watson Ltd,Gym,"vegan,indoor,trendy",Barrmouth
+68,Marshall-Griffin,Park,"tourist-friendly,cheap,luxury",Bartonview
+69,Rocha-Barnes,Beach,"romantic,trendy,luxury",Blaketon
+70,Hodge Group,Library,"luxury,trendy,indoor",Heathermouth
+71,Sloan-Bender,Library,"cheap,trendy,pet-friendly",Robertfurt
+72,Miller-Mccormick,Beach,"pet-friendly,luxury,tourist-friendly",Rodriguezborough
+73,Nelson Inc,Restaurant,"tourist-friendly,cheap,family-friendly",Joshuafurt
+74,"Guerrero, Jenkins and Benjamin",Shopping Mall,"family-friendly,cheap,outdoor",Debraland
+75,Hood Inc,Shopping Mall,"outdoor,luxury,vegan",New Richard
+76,"Cook, Brown and Davidson",Gym,"trendy,tourist-friendly,luxury",New Taraside
+77,Phillips and Sons,Shopping Mall,"pet-friendly,luxury,indoor",South Robinshire
+78,Hunter LLC,Library,"vegan,luxury,pet-friendly",Port David
+79,Webb PLC,Museum,"outdoor,cheap,romantic",Mauricefurt
+80,Ramirez Group,Shopping Mall,"tourist-friendly,trendy,pet-friendly",Port David
+81,Boyd and Sons,Beach,"family-friendly,romantic,cheap",Lake Kevinland
+82,"Rocha, Wright and Grant",Gym,"tourist-friendly,vegan,trendy",East Seanhaven
+83,Jones and Sons,Library,"vegan,family-friendly,romantic",Port Bryan
+84,Wells Inc,Gym,"luxury,romantic,outdoor",New Natalietown
+85,"Gonzalez, Bailey and Perkins",Shopping Mall,"vegan,pet-friendly,luxury",Andrewfort
+86,Bruce Ltd,Cinema,"tourist-friendly,pet-friendly,romantic",Walkerburgh
+87,"White, Santos and Molina",Cafe,"tourist-friendly,indoor,vegan",Carlamouth
+88,"Owens, Hines and Jones",Cafe,"cheap,tourist-friendly,pet-friendly",Coryborough
+89,"Hall, Snyder and Burgess",Restaurant,"trendy,luxury,tourist-friendly",Smithchester
+90,Prince-Klein,Shopping Mall,"pet-friendly,tourist-friendly,cheap",Douglastown
+91,Monroe-Ramos,Shopping Mall,"luxury,trendy,cheap",West Connieside
+92,Garcia Group,Library,"indoor,pet-friendly,trendy",Port Juliahaven
+93,"Nelson, Hill and Anderson",Beach,"luxury,family-friendly,cheap",Hillland
+94,Greer LLC,Park,"trendy,outdoor,vegan",North Joechester
+95,Stewart Inc,Restaurant,"tourist-friendly,outdoor,luxury",Port Chasechester
+96,Maldonado-Hoffman,Gym,"pet-friendly,indoor,tourist-friendly",Lake Levimouth
+97,Nelson-Clark,Shopping Mall,"vegan,luxury,family-friendly",North Lisaport
+98,Jenkins-Castro,Beach,"vegan,romantic,cheap",North Scottport
+99,Arellano Inc,Library,"trendy,cheap,luxury",Port Matthew
+100,Willis Ltd,Shopping Mall,"indoor,cheap,family-friendly",Brockland
